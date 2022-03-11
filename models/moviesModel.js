@@ -8,7 +8,6 @@ class MoviesModel {
 
 
     getMovies() {
-
         console.log("---> EX:moviesModel::getMovies");
 
         const movies = movie.getMovies();
